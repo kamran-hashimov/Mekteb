@@ -1,0 +1,13 @@
+C:\Users\Toshiba\source\repos\Mekteb\Mekteb\bin\Debug\Mekteb.exe.config
+C:\Users\Toshiba\source\repos\Mekteb\Mekteb\bin\Debug\Mekteb.exe
+C:\Users\Toshiba\source\repos\Mekteb\Mekteb\bin\Debug\Mekteb.pdb
+C:\Users\Toshiba\source\repos\Mekteb\Mekteb\obj\Debug\Mekteb.csprojAssemblyReference.cache
+C:\Users\Toshiba\source\repos\Mekteb\Mekteb\obj\Debug\Mekteb.Properties.Resources.resources
+C:\Users\Toshiba\source\repos\Mekteb\Mekteb\obj\Debug\Mekteb.csproj.GenerateResource.cache
+C:\Users\Toshiba\source\repos\Mekteb\Mekteb\obj\Debug\Mekteb.exe
+C:\Users\Toshiba\source\repos\Mekteb\Mekteb\obj\Debug\Mekteb.pdb
+C:\Users\Toshiba\source\repos\Mekteb\Mekteb\obj\Debug\Mekteb.frmNeticeler.resources
+C:\Users\Toshiba\source\repos\Mekteb\Mekteb\obj\Debug\Mekteb.frmMekteb.resources
+C:\Users\Toshiba\source\repos\Mekteb\Mekteb\obj\Debug\Mekteb.frmMuellim.resources
+C:\Users\Toshiba\source\repos\Mekteb\Mekteb\obj\Debug\Mekteb.frmKulub.resources
+C:\Users\Toshiba\source\repos\Mekteb\Mekteb\obj\Debug\Mekteb.frmFennler.resources
